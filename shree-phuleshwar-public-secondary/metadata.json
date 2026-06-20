@@ -1,0 +1,6 @@
+{
+  "name": "Shree Phuleshwar Public Secondary",
+  "description": "School website for Shree Phuleshwar Public Secondary with an interactive dashboard for students, teachers, and administrators featuring grade tracking, attendance logs, and assignment notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
